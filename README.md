@@ -1,4 +1,4 @@
-# RT-Approx-FPPS: An FTPAS for Response Time Analysis of Fixed Priority Real-Time Tasks with Resource Agmentation
+# An FTPAS for Response Time Analysis of Fixed Priority Real-Time Tasks with Resource Agmentation
 
 The project page provides all MATLAB source codes of the algorithms and simulation environments defined in the paper _"An FTPAS for Response Time Analysis of Fixed Priority Real-Time Tasks with Resource Augmentation"_, Thi Huyen Chau Nguyen, Pascal Richard, Emmanuel Grolleau,  +IEEE Transactions on Computers+, 2014, accepted for publication.<http://dx.doi.org/10.1109/TC.2014.2346178>
 
@@ -6,7 +6,7 @@ The paper presents a best possible Fully Polynomial Time Approximation Scheme un
 
 ## Download
 
-Download at "http://forge.lias-lab.fr/projects/rtapproxfpps/files":/projects/rtapproxfpps/files
+Download both files (Approx.zip and Graphs_of_all_Experiments.zip) at https://github.com/lias-laboratory/RT-Approx-FPPS/releases
 
 ## Installation instructions
 
