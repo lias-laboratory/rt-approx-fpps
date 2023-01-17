@@ -52,6 +52,10 @@ All MATLAB code files must be extracted in the same folder for execution.
 
 * Graphs.zip - MATLAB figure files (.fig) generated during the experiments (only some of them are presented in the paper). These files can be directly opened using MATLAB. 
 
+## Software licence agreement
+
+* Details the license agreement of rt-approx-fpps: [LICENSE](LICENSE)
+
 ## Historic Contributors
 
 * [Pascal RICHARD](https://www.lias-lab.fr/fr/members/pascalrichard/)
